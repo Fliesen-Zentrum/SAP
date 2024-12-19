@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Landscape updated="2024-12-18T09:17:39Z" version="1" generator="NWBC 6.5">
+  <Workspaces>
+    <Workspace uuid="8f6f1311-55c0-4931-9e54-9de8681b8bfd" name="Local" expanded="1" hidden="0">
+      <Item uuid="49c0c481-31a1-45cb-932b-850023c66772" serviceid="07eac8a3-7ebf-4b91-b447-f9be5b71f17f" />
+      <Item uuid="df4628a4-dce9-40ad-aa7b-cc2864dfbc5c" serviceid="a199c9d5-7d3a-406e-b020-68ae32ebb5a0" />
+      <Item uuid="65be70e8-02ae-4c59-b90e-3dc585d3f43e" serviceid="7c1d16b7-95a5-4b76-8e2b-505d6c7d65ad" />
+    </Workspace>
+  </Workspaces>
+  <Services>
+    <Service uuid="07eac8a3-7ebf-4b91-b447-f9be5b71f17f" name="S4.FZP" description="PS4/100 Produktiv" url="https://vhfzdws3wd01.sap.fliesen-zentrum.de:44380/sap/bc/ui2/flp?sap-client=100&amp;sap-language=DE" sapguitype="WebGUI" type="FIORI" uses_webdispatcher="1" />
+    <Service uuid="a199c9d5-7d3a-406e-b020-68ae32ebb5a0" name="S4.FZQ" description="QS4/100 Qualitätssystem" url="https://vhfzdqs4ci.sap.fliesen-zentrum.de:44300/sap/bc/ui2/flp?sap-client=100&amp;sap-language=DE" sapguitype="WebGUI" type="FIORI" uses_webdispatcher="1" />
+    <Service uuid="7c1d16b7-95a5-4b76-8e2b-505d6c7d65ad" name="S4.FZE" description="DS4/100 Entwicklungssystem" url="https://vhfzdws1wd01.sap.fliesen-zentrum.de:44380/sap/bc/ui2/flp?sap-client=100&amp;sap-language=DE" sapguitype="WebGUI" type="FIORI" uses_webdispatcher="1" />
+  </Services>
+</Landscape>
